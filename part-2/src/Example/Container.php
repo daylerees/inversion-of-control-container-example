@@ -35,7 +35,7 @@ class Container
      *
      * @return void
      */
-    private function _construct() {}
+    private function __construct() {}
 
     /**
      * Retrieve a single container instance.
